@@ -1,16 +1,23 @@
-## Hi there 👋
+# Juan Esteban Sora Ariza
 
-<!--
-**jsora-dev/jsora-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analítica de Datos & BI · Automatización e IA Aplicada · Sistemas Financieros / ERP**  
+Bogotá, Colombia · Ingeniería de Sistemas · Técnico en Contabilidad y Finanzas
 
-Here are some ideas to get you started:
+Combino formación en Ingeniería de Sistemas y Contabilidad y Finanzas para transformar datos contables y operativos en sistemas analíticos confiables y flujos automatizados.  
+Diseño soluciones orientadas a negocio que conectan bases de datos, ERPs (Dynamics 365, Siigo), analítica de datos e IA aplicada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack Técnico
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Datos & BI** | Python, SQL (Oracle, PostgreSQL), Power BI |
+| **Desarrollo** | Go, Kotlin (Android) |
+| **ERPs & Finanzas** | Microsoft Dynamics 365, Siigo |
+| **Infraestructura** | Linux, Docker |
+
+### Proyectos Destacados
+
+- **[dian-ubl-lakehouse](https://github.com/jsora-dev/dian-ubl-lakehouse)** — *(Próximamente)* Pipeline y arquitectura lakehouse para procesamiento y analítica de facturación electrónica (XML UBL / DIAN).
+- **[KRONO](https://github.com/jsora-dev/KRONO)** — *(En desarrollo)* Aplicación de gestión del tiempo para personas que estudian y trabajan, asistida por IA para estimar la duración de tareas y asignarlas en bloques disponibles.
+
+**Contacto:** [sorajuan05@gmail.com](mailto:sorajuan05@gmail.com)
